@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "minecart"
   gem.homepage = "http://github.com/abrons/minecart"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: minecraft}
-  gem.description = %Q{TODO: ruby service container}
+  gem.summary = "minecraft"
+  gem.description = "ruby service container"
   gem.email = "abrons@squareup.com"
   gem.authors = ["Adam Abrons"]
   # dependencies defined in Gemfile
